@@ -1,0 +1,15 @@
+USE Gringotts
+SELECT DepositGroup ,SUM(DepositAmount) AS TotalSum FROM WizzardDeposits
+WHERE MagicWandCreator ='Ollivander family' 
+GROUP BY DepositGroup
+HAVING SUM(DepositAmount)<150000
+
+ORDER BY TotalSum DESC
+
+
+--SELECT DepositGroup ,SUM(DepositAmount) AS TotalSum FROM WizzardDeposits
+--GROUP BY DepositGroup,MagicWandCreator
+--HAVING MagicWandCreator ='Ollivander family'
+--AND SUM(DepositAmount)<150000
+
+--ORDER BY TotalSum DESC

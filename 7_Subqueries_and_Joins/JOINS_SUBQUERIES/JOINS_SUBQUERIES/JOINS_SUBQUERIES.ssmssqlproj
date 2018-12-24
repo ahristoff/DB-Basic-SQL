@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="JOINS_SUBQUERIES">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="ALEN\SQLEXPRESS:ALEN\ALEN">
+          <Created>2018-09-09T14:50:43.0453466+03:00</Created>
+          <Type>SQL</Type>
+          <Server>ALEN\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01_Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01_Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02_Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>02_Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03_Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>03_Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>04_Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05_Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>05_Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06_Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06_Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07_Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>07_Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08_Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08_Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09_Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09_Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10_Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10_Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11_Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>11_Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12_Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>12_Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13_Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>13_Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14_Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>14_Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15___Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>15___Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15_1_Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>15_1_Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16_Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>16_Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17_Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>17_Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18___Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>18___Task.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18_1_Task.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ALEN\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ALEN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>18_1_Task.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
